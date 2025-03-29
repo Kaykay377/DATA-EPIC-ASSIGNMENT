@@ -1,4 +1,4 @@
--- Task 1: Check Even or Odd Numbers (1 to 15)
+# Task 1: Check Even or Odd Numbers (1 to 15)
 for num in range(1, 16):  
     if num % 2 == 0:
         print(f"{num} is even")
@@ -6,7 +6,7 @@ for num in range(1, 16):
         print(f"{num} is odd")
 
 
---- Task 2: Simple Calculator
+# Task 2: Simple Calculator
 def calculator():
     try:
         # Get user input for two numbers
